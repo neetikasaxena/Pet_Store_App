@@ -7,8 +7,11 @@ date of birth (date),
 birth weight (float), and 
 owner (Person). 
 The child classes Mammal, Fish and Amphibian that inherit from Pet and have the following additional properties 
+
 •	Mammals - litter size (int), hasClaws (boolean)
+
 •	Fish - scale condition (String), length (float)
+
 •	Amphibian - isVenomous (boolean). 
 
       Additional Feature
