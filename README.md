@@ -1,15 +1,15 @@
 # Pet_Store_App
 Designed the Pet Inventory Application by using the Object-Oriented Programming concept.
 ## Pet Application
-•	The base class Pet has the following attributes:
-o	pet’s name (String)
-o	date of birth (date), 
-o	birth weight (float), and 
-o	owner (Person). 
-•	The child classes Mammal, Fish and Amphibian that inherit from Pet and have the following additional properties 
-o	Mammals - litter size (int), hasClaws (boolean)
-o	Fish - scale condition (String), length (float)
-o	Amphibian - isVenomous (boolean). 
+The base class Pet has the following attributes:
+pet’s name (String)
+date of birth (date), 
+birth weight (float), and 
+owner (Person). 
+The child classes Mammal, Fish and Amphibian that inherit from Pet and have the following additional properties 
+•	Mammals - litter size (int), hasClaws (boolean)
+•	Fish - scale condition (String), length (float)
+•	Amphibian - isVenomous (boolean). 
 
       Additional Feature
 ### Current weight is calculated as follows:
