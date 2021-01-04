@@ -1,5 +1,5 @@
 # Pet_Store_App
-Designed the Pet Inventory Application by using the Object-Oriented Programming concept.
+Designed the Pet Inventory Application by using the **Object-Oriented Programming** concept.
 ## Pet Application
 The base class Pet has the following attributes:
 pet’s name (String)
